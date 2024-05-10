@@ -1,0 +1,65 @@
+body {
+    background-color: #A7C957;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.pizza {
+    /*box-model*/
+    border: 5px solid;
+    padding: 1em;
+    margin: 1em;
+    border-radius:0.5em ;
+    width:  
+    display: 
+}
+
+.medium_pizza {
+    background-color: #0EAD69;
+    flex: 1.5
+
+}
+.large_pizza {
+    background-color: #6a994e;
+    flex: 1.8
+    
+}
+.small_pizza {
+    background-color:#386641;
+    flex:1
+    
+}
+.Contact_details {
+    background-color:#e0e1dd ;
+    
+}
+table {
+    width: 97%;
+    border-collapse: collapse;
+    background-color: #A3B18A;
+    border: 5px solid;
+    padding: 1em;
+    margin: 1em;
+    border-radius:0.5em ;
+
+}
+td {
+    padding: 10px;
+    border: 0.5px solid #A3B18A;
+    width: 20%;
+}
+#pizzaPic{
+
+    border-radius: 100px;
+}
+@media(min-width:960px) {
+    body {
+      ;
+    }
+    .pizzas {
+        display: flex
+    }
+}
+.h111 {
+   text-align: center;
+
+}
