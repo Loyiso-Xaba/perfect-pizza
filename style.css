@@ -52,7 +52,7 @@ td {
     border-radius: 100px;
 }
 @media(min-width:960px) {
-    body {
+    body { 
       ;
     }
     .pizzas {
